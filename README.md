@@ -18,6 +18,13 @@ Web Developer in Progress 💻🔥
 - Generate income from coding  
 
 ---
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,github,vscode" />
+</p>
+
+---
 
 ### 📫 Contact Me:
 - YouTube: 
