@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🚀 Sherif Khater
+Web Developer in Progress 💻🔥
 
-<!--
-**sherift911/sherift911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Make yourself do what you don't want to do, until you can do what you want.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm Sherif  
+🎯 Passionate about Programming 
+💻 Currently learning Web Developing 
+📈 Building my journey in Tech & Content Creation  
+
+---
+
+### 🔥 أهدافي:
+- Become Full Stack Developer  
+- Build real projects  
+- Make income from coding 
+
+---
+
+### 📫 تواصل معايا:
