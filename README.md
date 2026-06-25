@@ -21,7 +21,7 @@ Web Developer in Progress 💻🔥
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,nodejs,express.js,mui,python,c,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,nodejs,expressjs,mui,python,c,github,vscode" />
 </p>
 
 ---
