@@ -29,4 +29,5 @@ Web Developer in Progress 💻🔥
 ### 📫 Contact Me:
 - YouTube: 
 - TikTok: 
+- Linkedin: www.linkedin.com/in/sherif-khater-03a86b41a 
 - Email: sherift911@gmail.com
