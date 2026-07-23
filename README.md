@@ -1,5 +1,5 @@
 ## 🚀 Sherif Khater
-Full Stack Web Developer | React.js | Node.js | MongoDB 💻🔥
+Full Stack JavaScript Developer | React, Node.js, Express & MongoDB 💻🔥
 
 > Make yourself do what you don't want to do, until you can do what you want.
 
