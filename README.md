@@ -1,23 +1,24 @@
 ## 🚀 Sherif Khater
-Web Developer in Progress 💻🔥
+Full Stack Web Developer | React.js | Node.js | MongoDB 💻🔥
 
 > Make yourself do what you don't want to do, until you can do what you want.
 
 ---
 
 👋 Hi, I'm Sherif  
-🎯 Passionate about Programming  
-💻 Currently learning Web Development  
-📈 Building my journey in Tech & Content Creation  
+🎯 Passionate about Programming and Building Web Applications  
+💻 Full Stack Developer focused on JavaScript technologies  
+📈 Sharing my journey in Tech & Content Creation  
 
 ---
 
 ### 🔥 Goals:
-- Become a Full Stack Developer  
-- Build real-world projects  
-- Generate income from coding  
+- Build scalable real-world applications
+- Improve backend architecture and system design skills
+- Create useful products and grow as a developer
 
 ---
+
 ### 🧰 Languages and Tools
 
 <p align="left">
@@ -27,7 +28,7 @@ Web Developer in Progress 💻🔥
 ---
 
 ### 📫 Contact Me:
-- YouTube: 
-- TikTok: 
-- Linkedin: www.linkedin.com/in/sherif-khater-03a86b41a 
+- YouTube:
+- TikTok:
+- LinkedIn: www.linkedin.com/in/sherif-khater-03a86b41a
 - Email: sherift911@gmail.com
