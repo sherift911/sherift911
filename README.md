@@ -18,6 +18,12 @@ Full Stack JavaScript Developer | React, Node.js, Express & MongoDB 💻🔥
 - Create useful products and grow as a developer
 
 ---
+### 🎯 Current Focus
+
+- Building REST APIs with Node.js and Express
+- Working with MongoDB and Mongoose
+- Developing full-stack applications with React and Next.js
+- Improving backend architecture and system design
 
 ### 🧰 Languages and Tools
 
