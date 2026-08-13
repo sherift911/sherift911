@@ -29,5 +29,5 @@ Full Stack JavaScript Developer | React, Node.js, Express & MongoDB 💻🔥
 
 ### 📫 Contact Me:
 
-- LinkedIn: www.linkedin.com/in/sherif-khater-03a86b41a
+- [LinkedIn](https://www.linkedin.com/in/sherif-khater-03a86b41a)
 - Email: sherift911@gmail.com
